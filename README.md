@@ -1,7 +1,6 @@
-<center>
-# ABHIRATH R
+## ABHIRATH R
 **Mangalore, Karnataka** | 9481724930 | [abhirathpr@gmail.com](mailto:abhirathpr@gmail.com)
-</center>
+
 ## Summary
 Highly motivated Associate with 1.5+ years of professional experience in the IT sector, seeking better opportunities as a Software Analyst. Eager to learn and enhance skills by working on challenging projects for the betterment of the organization.
 
