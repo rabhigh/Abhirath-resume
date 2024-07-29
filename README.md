@@ -65,17 +65,16 @@ Highly motivated Associate with 1.5+ years of professional experience in the IT 
 MS Office, Visual Studio, MySQL Workbench, Git, Putty/Puttygen, Oracle VM VirtualBox, Ubuntu/RHEL, Jenkins, Maven, Tomcat, Ansible, Docker, Kubernetes.
 
 ### Amazon Web Services
-EC2, EBS, ELB, EFS, Auto Scaling, S3, VPC, RDS, CloudFront, Route 53, AWS Certificate Manager, CloudWatch, CloudTrail, IAM.
+EC2, EBS, ELB, Auto Scaling, S3, VPC, RDS, CloudFront, Route 53, AWS Certificate Manager, CloudWatch, CloudTrail, IAM.
 
 ### Bosch Specific Tools
-UDE 5.2, TPT, ECUWorx, SDOM, IPE, RQ1, ASCET, AUTOSAR, Review tool, CI Dashboard.
+UDE 5.2, TPT, ECUWorx, SDOM, IPE, RQ1, ASCET, AUTOSAR, Review Tool, CI Dashboard.
 
 ### Programming Languages
 Basics of C, C++, Python, Shell Script, SQL, HTML, and CSS.
 
 ## Certifications
-- AWS and Linux by Besant Technologies Bangalore.
-- Basics of HTML and CSS by Udemy.
+- Linux, AWS, and Devops by Besant Technologies Bangalore.
 - C, C++ by Coursera.
 - Basics of Python by Ethnus Codemithra Bangalore.
 
